@@ -1,6 +1,6 @@
 # Awesomne Medical Self-Supervised Learning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Medical Self-Supervised Learning resources. Copy source from: [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+A curated list of Medical Self-Supervised Learning resources. Copy githhub format from: [awesome-self-supervised-learning Zhongzheng Ren](https://github.com/jason718/awesome-self-supervised-learning).
 
 Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), 
 
