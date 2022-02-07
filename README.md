@@ -16,3 +16,12 @@ Self-Supervised Learning has become an exciting direction in AI community.
 </p>
 
 Please help contribute this list by contacting [me](https://thomhert.github.io/) or add [pull request](https://github.com/thomhert/awesome-medical-ssl/pulls)
+
+
+Markdown format:
+```markdown
+- Paper Name. 
+  [[pdf]](link) 
+  [[code]](link)
+  - Author 1, Author 2, and Author 3. *Conference Year*
+```
