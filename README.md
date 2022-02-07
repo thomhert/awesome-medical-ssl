@@ -135,18 +135,8 @@ Markdown format:
 
 ### Audio
 
-- BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
- [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
- [[code]](https://github.com/nttcslab/byol-a)
-  - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
-
 ### Others
-- Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
-  [[pdf]](https://arxiv.org/abs/1611.07544)
-  - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
 
-- Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
-  - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
 
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
@@ -159,10 +149,6 @@ Markdown format:
     -   Bengio, Yoshua and Courville, Aaron and Vincent, Pascal. *TPAMI 2013*.
 
 ### Reinforcement Learning
-- Curiosity-driven Exploration by Self-supervised Prediction. 
-  [[pdf]](http://pathak22.github.io/noreward-rl/resources/icml17.pdf) 
-  [[code]](https://pathak22.github.io/noreward-rl/index.html#sourceCode)
-  - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. *ICML 2017*
 
 ### Recommendation Systems
 
