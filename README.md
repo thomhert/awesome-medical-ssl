@@ -118,25 +118,13 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2106.06801)
    - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam. *MICCAI 2021*
 
- - How Well Do Self-Supervised Models Transfer?
-   [[pdf]](https://arxiv.org/abs/2011.13377)
-   [[code]](https://github.com/linusericsson/ssl-transfer)
-   - Linus Ericsson, Henry Gouk, Timothy M. Hospedales. *CVPR 2021*
-
- - Improving Contrastive Learning by Visualizing Feature Transformation
-   [[pdf]](https://arxiv.org/abs/2108.02982)
-   [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
-   - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
-
 ### Video Representation Learning
 
 ### Geometry
 
-
 ### Audio
 
 ### Others
-
 
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
@@ -152,13 +140,11 @@ Markdown format:
 
 ### Recommendation Systems
 
-
 ## Robotics
 
 ## NLP
 
 ## ASR
-
 
 ## Graph   
  - Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks
@@ -166,9 +152,6 @@ Markdown format:
    - Arijit Sehanobish, Neal G. Ravindra, David van Dijk. *ICML 2020 Workshop*
 
 ## Talks
-- The power of Self-Learning Systems. Demis Hassabis (DeepMind).
-  [[link]](https://youtu.be/wxis9FrCHbw)
-
 
 ## Thesis
 
